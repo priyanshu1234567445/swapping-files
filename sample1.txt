@@ -1,0 +1,5 @@
+good morning. in which class you study
+
+ S=open("C:/users/priya/onedrive/desktop/python/sample1.txt")
+ S.readlines()
+ 
